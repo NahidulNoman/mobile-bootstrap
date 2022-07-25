@@ -1,3 +1,13 @@
 .icon p i{
     font-size:70px;
 }
+.stop-think{
+    background-image: url(img/background.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
+.head{
+    margin-top: 30px;
+}
